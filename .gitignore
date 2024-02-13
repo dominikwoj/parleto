@@ -1,0 +1,10 @@
+# Python and PIP cache
+**/**/__pycache__
+.cache
+
+# VirtualEnv
+.venv
+Scripts
+.idea
+Lib
+pyvenv.cfg
